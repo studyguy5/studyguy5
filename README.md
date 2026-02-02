@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @studyguy5
-- 👀 I’m interested in learn coding releadet stuff
-- 🌱 I’m currently at the beginning and try to learn step by step
-- 💞️ I’m looking to collaborate on creating some good codes, visuals and solutions
-- 📫 How to reach me: Reach me here on github for any questions
+- 👀 I’m curious about systems, about UI, UX, how backend works, how db traffic happens and the list goes on
+-  lol I centered a view divs since I started coding
+- 🌱 I’m currently at mastering Javascript and start with OOP, Typescript after that - will reach to a framework like Angular soon
+- 💞️ I’m looking to collaborate on creating some good codes, visuals and solutions for a better world independend humans
+- 📫 How to reach me: Reach me here on github for any questions - I'm trying to code every day - so maybe I see your messages
 
 <!---
 studyguy5/studyguy5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
